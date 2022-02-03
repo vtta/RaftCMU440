@@ -10,7 +10,7 @@ package main
 
 import (
 	crand "crypto/rand"
-	"github.com/yudun/RaftCMU440/rpc/raftproxyrpc"
+	"github.com/vtta/RaftCMU440/rpc/raftproxyrpc"
 	"math"
 	"math/big"
 	"math/rand"

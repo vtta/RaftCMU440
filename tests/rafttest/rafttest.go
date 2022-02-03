@@ -57,8 +57,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/yudun/RaftCMU440/rpc/raftproxyrpc"
-	"github.com/yudun/RaftCMU440/tests/raftproxy"
+	"github.com/vtta/RaftCMU440/rpc/raftproxyrpc"
+	"github.com/vtta/RaftCMU440/tests/raftproxy"
 )
 
 type raftTester struct {

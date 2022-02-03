@@ -10,7 +10,7 @@ package main
 import (
 	"flag"
 	"fmt"
-	"github.com/yudun/RaftCMU440/tests/raftproxy"
+	"github.com/vtta/RaftCMU440/tests/raftproxy"
 	"log"
 	"time"
 )

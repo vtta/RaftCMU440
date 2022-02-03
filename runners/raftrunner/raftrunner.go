@@ -10,7 +10,7 @@ package main
 
 import (
 	"flag"
-	"github.com/yudun/RaftCMU440/raft"
+	"github.com/vtta/RaftCMU440/raft"
 	"log"
 	"strconv"
 	"strings"

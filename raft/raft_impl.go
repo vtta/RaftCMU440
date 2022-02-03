@@ -1,7 +1,7 @@
 package raft
 
 import (
-	"github.com/yudun/RaftCMU440/rpc/raftrpc"
+	"github.com/vtta/RaftCMU440/rpc/raftrpc"
 )
 
 type raftNode struct {

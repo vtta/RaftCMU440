@@ -10,7 +10,7 @@ package raftproxy
 
 import (
 	"fmt"
-	"github.com/yudun/RaftCMU440/rpc/raftproxyrpc"
+	"github.com/vtta/RaftCMU440/rpc/raftproxyrpc"
 	"log"
 	"net"
 	"net/http"
